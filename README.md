@@ -3,7 +3,7 @@
 
 
 
-
+ 
 ## image classification
 
 - **BP**:[backprop_old](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)  [论文笔记](https://pan.baidu.com/s/1NIycmIlvPB0Lcp74H119sg?pwd=3032 )
